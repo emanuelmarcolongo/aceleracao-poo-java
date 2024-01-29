@@ -13,3 +13,9 @@
 ### 1° Semana: 
 * Exercicios de programação com Java (sintaxe e orientação a objetos)
 * Transformação da aplicação Holidayzer (app que mostra os feriados do ano e confere se uma data é feriado ou não) em uma api utilizando Spring
+
+
+### 2° Semana:
+
+Desenvolvida uma aplicação (Tweteroo) utilizando o SpringBoot + arquitetura em camadas.
+Para saber mais, [confira AQUI](https://github.com/emanuelmarcolongo/tweteroo-api-java/tree/main) 
